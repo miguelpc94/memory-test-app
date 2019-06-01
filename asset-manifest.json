@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memory-test-app/static/css/main.25c28106.chunk.css",
+    "main.js": "/memory-test-app/static/js/main.b2999139.chunk.js",
+    "main.js.map": "/memory-test-app/static/js/main.b2999139.chunk.js.map",
+    "runtime~main.js": "/memory-test-app/static/js/runtime~main.4be55576.js",
+    "runtime~main.js.map": "/memory-test-app/static/js/runtime~main.4be55576.js.map",
+    "static/js/2.1b3a0643.chunk.js": "/memory-test-app/static/js/2.1b3a0643.chunk.js",
+    "static/js/2.1b3a0643.chunk.js.map": "/memory-test-app/static/js/2.1b3a0643.chunk.js.map",
+    "index.html": "/memory-test-app/index.html",
+    "precache-manifest.6b3b77e2a34fbbbc48081d47f3cd7f03.js": "/memory-test-app/precache-manifest.6b3b77e2a34fbbbc48081d47f3cd7f03.js",
+    "service-worker.js": "/memory-test-app/service-worker.js",
+    "static/css/main.25c28106.chunk.css.map": "/memory-test-app/static/css/main.25c28106.chunk.css.map"
+  }
+}
